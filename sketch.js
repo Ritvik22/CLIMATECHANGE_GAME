@@ -24,7 +24,7 @@ var solarC, solar1, solar2, solar3, solar4, solar5, solar6;
 
 function preload(){
 
-    playerImg = loadImage("Game_Elements/Characters/bobIdle.png")
+    playerImg = loadImage("Game_Elements/Characters/BobIdle.png")
 
     platform1Img = loadImage("Platform1.png");
     platform2Img = loadImage("Platform_1_1.png");
